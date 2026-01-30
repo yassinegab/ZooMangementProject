@@ -1,6 +1,10 @@
 # 🐾 Zoo Management System
 
-A Zoo Management System desktop application built in **Java** using **IntelliJ IDEA**.  
+[![Language](https://img.shields.io/badge/Language-Java-blue?logo=java&logoColor=white)](https://www.java.com/)
+[![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-purple?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![License](https://img.shields.io/badge/License-Educational-orange)]()
+
+A **Zoo Management System** desktop application built in **Java** using **IntelliJ IDEA**.  
 This project helps manage **animals, enclosures, employees, and feeding schedules** in a zoo.
 
 ---
@@ -24,23 +28,6 @@ This project helps manage **animals, enclosures, employees, and feeding schedule
 
 ---
 
-## 📂 Project Structure
-
-ZooMangementProject/
-│
-├── src/
-│ ├── Animal.java
-│ ├── Aquatic.java
-│ ├── Dolphin.java
-│ ├── Main.java
-│ ├── Penguin.java
-│ ├── Terrestrial.java
-│ ├── Zoo.java
-│ └── ZooMangement.java
-│
-├── .gitignore
-├── README.md
-└── JavaProsits.iml
 
 ---
 
@@ -63,3 +50,5 @@ Engineering Student | Java & Software Development
 ## 📜 License
 This project is for educational purposes.  
 You are free to use, modify, and distribute it.
+
+
